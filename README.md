@@ -46,7 +46,7 @@ Midgard API Catalog is a Rust-based service that collects, stores, and serves hi
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/midgard-api-catalog-week3.git
+   git clone https://github.com/jaibhedia/midgard-api-catalog-week3.git
    cd midgard-api-catalog-week3
    ```
 
